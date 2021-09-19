@@ -10,10 +10,14 @@
 Technologies used in this project are:-
 
 (1) JavaScript
+
 (2) Node.js
+
 (3) Puppeteer for Automation.
 
+
 There are three files in this project:-
+
  main.js           --> main code while 
  
  credential.js     --> It contains the id and password of linkedin.
