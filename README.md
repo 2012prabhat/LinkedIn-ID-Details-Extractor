@@ -1,7 +1,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-						                                             Name of the Project --->   LinkedIn Id Details Extractor.
+				    Name of the Project --->   LinkedIn Id Details Extractor.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -15,7 +15,9 @@ Technologies used in this project are:-
 
 There are three files in this project:-
  main.js           --> main code while 
+ 
  credential.js     --> It contains the id and password of linkedin.
+ 
  linkedIn_links.js --> It contains the link of all the linkedIn ids which we want to extract.
 
 It is a Automation project in which a browser will open and go to the linkedin login page and login automatically.
